@@ -1,3 +1,13 @@
+# Code Kata
+
+## Instructions
+
+1. Fork this repo
+1. Write a solution
+1. Get the tests to pass
+1. Write more tests if you want
+1. Create a pull request to this repo when you're ready to submit
+
 ## Description:
 
 We want to write calculations using functions and get the results. Let's have a look at some examples:
