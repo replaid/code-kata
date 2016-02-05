@@ -8,12 +8,6 @@
 1. Write more tests if you want
 1. Create a pull request to this repo when you're ready to submit
 
-## Winners:
-
-* **Golfer:** solution in fewest lines
-* **Speedy:** fastest solution
-* **Rubyist:** most readable code
-
 ## Description:
 
 We want to write calculations using functions and get the results. Let's have a look at some examples:
